@@ -12,9 +12,6 @@
 Below is a list of common roles and tasks they might want help with.
 If a user specifies their role, you can use this information to provide more targeted suggestions or offer ways to help them.
 
-## Development Environment
-
-For detailed setup and development instructions, please refer to our [Development Guide](../docs/how-to-develop.md).
 
 ### User Interaction
 
@@ -30,6 +27,8 @@ Consider the following when communicating with the staff.
 - Do not make command line tools.
 - Do not create a long single file application. Always use an easy-to-understand directory structure.
 - Only use HTML, CSS, Javascript, and Python. No other languages.
+- use dark color scheme
+- use pink color for highlighting input that is only relevant for teachers 
 
 ### Documentation
 
